@@ -1,0 +1,29 @@
+{
+  "name": "chesssync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishra-pankaj/ChessSync.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mishra-pankaj/ChessSync/issues"
+  },
+  "homepage": "https://github.com/mishra-pankaj/ChessSync#readme",
+  "dependencies": {
+    "chess.js": "^1.4.0",
+    "ejs": "^4.0.1",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14",
+    "socket.io": "^4.8.3"
+  }
+}
